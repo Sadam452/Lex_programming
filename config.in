@@ -1,0 +1,4 @@
+db_type:mySql
+db_name:testdate
+db_table_prefix:test_
+db_port:678
